@@ -1,0 +1,6 @@
+[submodule "externals/msagl"]
+	path = externals/msagl
+	url = git@github.com:Microsoft/automatic-graph-layout.git
+[submodule "externals/core.common"]
+	path = externals/core.common
+	url = git@github.com:toeb/core.common.git
